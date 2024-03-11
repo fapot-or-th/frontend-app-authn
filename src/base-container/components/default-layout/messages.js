@@ -11,6 +11,11 @@ const messages = defineMessages({
     defaultMessage: 'with {siteName}',
     description: 'Header text with site name for logistration MFE pages',
   },
+  'e.learning': {
+    id: 'e.learning',
+    defaultMessage: 'E-Learning',
+    description: 'Header text for logistration MFE pages',
+  },
 });
 
 export default messages;
